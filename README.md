@@ -1,4 +1,4 @@
 slientmode
 ==========
 
-Scripts for installing OFM products in slient
+Scripts for installing OFM products in silent.
