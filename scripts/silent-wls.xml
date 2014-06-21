@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <bea-installer> 
+     <input-fields>
+       <data-value name="BEAHOME" value="/opt/oracle/mw11g" />
+	   <data-value name="COMPONENT_PATHS" value="WebLogic Server|Oracle Coherence" />
+   </input-fields> 
+</bea-installer>
